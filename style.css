@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: rgb(91, 88, 88); */
+}
+
+section {
+    height: 85vh;
+    margin: 50px;
+    /* width: 100%; */
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#playbox {
+    /* border: 2px solid black; */
+    height: 80%;
+    width: 60%;
+}
+
+#playlist {
+    /* border: 2px solid rgb(48, 72, 232); */
+    height: 80%;
+    width: 25%;
+}
+
+.navbar {
+    /* background-color: white; */
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    width: 100%;
+    /* border: 2px solid black; */
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 10px 30px;
+}
+
+.navbar button {
+    border: 1px solid gray;
+    color: rgba(56, 116, 237, 0.667);
+    border-radius: 10px;
+    height: 30px;
+    width: 90px;
+}
+
+.navbar input {
+    height: 39px;
+    width: 586px;
+    border: 2px solid rgb(142, 137, 137);
+    border-radius: 20px;
+}
+
+.navbar ::placeholder {
+    /* font-size: 20px; */
+    margin-left: 20px;
+}

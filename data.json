@@ -1,0 +1,28 @@
+[
+    {
+    "thumbnail" : "./Thumbnail/akshaykuamr.jpg" ,
+    "title" : "  | ASKHAY KUMAR SONG" ,
+    "video" :  "./Videos/akshay.mp4" 
+    },
+    {
+        "thumbnail" : "./Thumbnail/img1_bollywood.jpg" ,
+        "title" : "  | ANIMAL TRAILER" ,
+        "video" :  "./Videos/ranveer.mp4" 
+    },
+    {
+        "thumbnail" : "./Thumbnail/img3.jpg" ,
+        "title" : " Diljit |  HASS HASS K " ,
+        "video" :  "./Videos/hasshassk.mp4" 
+    },
+    {
+        "thumbnail" : "./Thumbnail/img2-girl.jpg" ,
+        "title" : "  | Bharatnatyam SONG" ,
+        "video" :  "./Videos/bharatnatyam.mp4" 
+    },
+    {
+        "thumbnail" : "./Thumbnail/cartoon.jpg" ,
+        "title" : " |CAERTOON SONG" ,
+        "video" :  "./Videos/cartoonvideo.mp4" 
+    }
+
+]
